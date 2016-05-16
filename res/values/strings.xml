@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PracticalTest02Model</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+     <string name="connect">connect</string>
+     <string name="port_server">Port</string>
+      <string name="port_client">Port</string>
+       <string name="address">Address</string>
+        <string name="city">City</string>
+         <string name="weather">Get all weather forecast</string>
+		 <string-array name="data">
+        <item>temperature</item>
+        <item>wind speed</item>
+        <item>general state</item>
+        <item>pression</item>
+         <item>humidity</item>
+    </string-array>
+</resources>
